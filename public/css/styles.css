@@ -1,0 +1,28 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+.fa-user{
+  margin-right: 5px;
+}
+.container{
+  position: relative;
+  padding-top: 50px;
+}
+.user{
+  position: absolute;
+  top: 0px;
+  right: 37%;
+}
